@@ -3,8 +3,13 @@ use tiny_skia::*;
 fn main() {
     let mut pixmap = Pixmap::new(800, 500).unwrap();
 
+<<<<<<< HEAD
     draw_polygon1(&mut pixmap);
     //draw_polygon2(&mut pixmap);
+=======
+    //draw_polygon1(&mut pixmap);
+    draw_polygon2(&mut pixmap);
+>>>>>>> Poligon-2
     //draw_polygon3(&mut pixmap);
     //draw_polygon4(&mut pixmap);
 

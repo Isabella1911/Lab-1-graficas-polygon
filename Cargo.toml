@@ -1,0 +1,8 @@
+[package]
+name = "prueba_rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tiny-skia = "0.11.1"
+png = "0.17"
